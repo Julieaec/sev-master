@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UTH</key>
+	<real>25.000000</real>
+	<key>sync_range_seconds</key>
+	<real>0.100000</real>
+	<key>min_duration_sec</key>
+	<real>0.500000</real>
+	<key>np</key>
+	<real>11.000000</real>
+</dict>
+</plist>
